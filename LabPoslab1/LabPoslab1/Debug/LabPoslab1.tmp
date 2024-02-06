@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\Debug\LabPoslab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LabPoslab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LabPoslab1.map</FILE>
+  <FILE>LabPoslab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Setup><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>35</LINE></Setup>
+  <delay><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>218</LINE></delay>
+  <Loop><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>70</LINE></Loop>
+  <shift><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>78</LINE></shift>
+  <increment1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>130</LINE></increment1>
+  <decrement1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>154</LINE></decrement1>
+  <increment2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>142</LINE></increment2>
+  <decrement2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>166</LINE></decrement2>
+  <displaysum><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>184</LINE></displaysum>
+  <delay2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>232</LINE></delay2>
+  <delayouter><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>220</LINE></delayouter>
+  <delayinner><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>222</LINE></delayinner>
+  <delayouter2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>234</LINE></delayouter2>
+  <delayinner2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>236</LINE></delayinner2>
+ </LABELS>
+</ASSEMBLER_INFO>
