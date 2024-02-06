@@ -24,18 +24,18 @@
  </OUTPUT_FILES>
  <LABELS>
   <Setup><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>35</LINE></Setup>
-  <delay><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>218</LINE></delay>
+  <delay><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>219</LINE></delay>
   <Loop><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>70</LINE></Loop>
   <shift><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>78</LINE></shift>
-  <increment1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>130</LINE></increment1>
-  <decrement1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>154</LINE></decrement1>
-  <increment2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>142</LINE></increment2>
-  <decrement2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>166</LINE></decrement2>
-  <displaysum><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>184</LINE></displaysum>
-  <delay2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>232</LINE></delay2>
-  <delayouter><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>220</LINE></delayouter>
-  <delayinner><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>222</LINE></delayinner>
-  <delayouter2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>234</LINE></delayouter2>
-  <delayinner2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>236</LINE></delayinner2>
+  <increment1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>131</LINE></increment1>
+  <decrement1><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>155</LINE></decrement1>
+  <increment2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>143</LINE></increment2>
+  <decrement2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>167</LINE></decrement2>
+  <displaysum><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>185</LINE></displaysum>
+  <delay2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>233</LINE></delay2>
+  <delayouter><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>221</LINE></delayouter>
+  <delayinner><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>223</LINE></delayinner>
+  <delayouter2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>235</LINE></delayouter2>
+  <delayinner2><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\LabPoslab1\LabPoslab1\main.asm</FILE><LINE>237</LINE></delayinner2>
  </LABELS>
 </ASSEMBLER_INFO>

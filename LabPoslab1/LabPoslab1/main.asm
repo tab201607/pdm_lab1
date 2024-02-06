@@ -6,7 +6,7 @@
 ; Proyecto: Laboratorio 1 
 ; Hardware: ATMEGA328P 
 ; Creado: 30/01/2024 
-; Ultima modificacion: 5/02/2024 
+; Ultima modificacion: 6/02/2024 
 ;*******************************************************************************
 
 .include "M328PDEF.inc"
@@ -102,16 +102,16 @@ CBI PORTC, PC5
 // control
 
 SBIS PINB, PB0 ;Saltamos a increment si PB0 esta en 0 (recordar pullup)
-RJMP increment1
+CALL increment1
 
 SBIS PINB, PB1 ;Saltamos a decrement si PB1 esta en 0 (recordar pullup)
-RJMP decrement1
+CALL decrement1
 
 SBIS PINB, PB2 ;Saltamos a increment2
-RJMP increment2
+CALL increment2
 
 SBIS PINB, PB3 ;Saltamos a decrement2
-RJMP decrement2
+CALL decrement2
 
 SBIS PINB, PB4 ;Saltamos al control del display de adicion
 RJMP displaysum
@@ -138,7 +138,7 @@ CALL delay2
 	SBRC counter1, 4 ; revisamos que no aumenta mas de los 4 bits
 	LDI counter1, 0x0F
 
-	RJMP Loop
+	RET
 
 increment2: ; Modulo para incrementar en el contador 2
 CALL delay
@@ -150,7 +150,7 @@ CALL delay
 	SBRC counter2, 4 ; revisamos que no aumenta mas de los 4 bits
 	LDI counter2, 0x0F
 
-	RJMP Loop
+	RET
 
 decrement1: ;  Modulo para decrementar en el contador 1
 	CALL delay2
@@ -162,7 +162,7 @@ decrement1: ;  Modulo para decrementar en el contador 1
 	SBRC counter1, 7 ; revisamos que no hace wraparound para estar de mas de 4 bits
 	LDI counter1, 0x00
 
-	RJMP Loop
+	RET
 
 decrement2: ;  Modulo para decrementar en el contador 2
 	CALL delay
@@ -174,7 +174,7 @@ decrement2: ;  Modulo para decrementar en el contador 2
 	SBRC counter2, 7 ; revisamos que no hace wraparound para estar de mas de 4 bits
 	LDI counter2, 0x00
 
-	RJMP Loop
+	RET
 
 	
 ; ///////////////////////////////////////////////////////
